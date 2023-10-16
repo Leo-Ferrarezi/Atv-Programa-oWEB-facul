@@ -1,0 +1,7 @@
+.foto-etexto img {
+    width: 200px; /* Defina a largura desejada */
+    height: auto; /* Mantém a proporção original, ajustando automaticamente a altura */
+    border: 2px solid #333; /* Adicione uma borda de 2px sólida com a cor #333 */
+    border-radius: 10px; /* Adicione cantos arredondados */
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); /* Adicione uma sombra */
+}
